@@ -1,0 +1,13 @@
+.myinput{
+    background-color: rgb(176, 175, 175);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.cart-img {
+    width: 200px;
+}
+

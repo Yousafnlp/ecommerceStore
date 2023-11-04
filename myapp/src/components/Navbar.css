@@ -1,0 +1,29 @@
+.bc{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    color: white;
+}
+.nav-link{
+    
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 15px;
+        color: #000000 !important;
+    
+}
+.my-bg{
+    background-color: whitesmoke;
+
+    border-bottom:2px solid #000000;
+    
+
+}
+
+.my-bg-bc{
+    background-color: whitesmoke;
+
+    
+    padding-top: 20px !important;
+
+}
